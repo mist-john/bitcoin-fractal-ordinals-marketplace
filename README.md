@@ -275,8 +275,6 @@ We welcome contributions! Please follow these steps:
 
 ### Commit Convention
 
-We follow [Conventional Commits](https://www.conventionalcommits.org/):
-
 - `feat:` New features
 - `fix:` Bug fixes
 - `docs:` Documentation changes
@@ -289,10 +287,6 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Contact
-
-- **LinkedIn**: [Michal Stefanow](https://www.linkedin.com/in/michalstefanow/)
-- **Telegram**: [@mylord1_1](https://t.me/mylord1_1)
 
 ## 🙏 Acknowledgments
 
